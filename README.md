@@ -1,6 +1,6 @@
 # Hello-world
 This is my first Github repo
 
-my name is hassan and i studing Linux
+my name is hassan and i studying Linux
 
- i have fixed the issue
+I am student in UA92
